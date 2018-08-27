@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Searching For...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="noPrem">Need Permission To Show Your Location :(</string>
+    <string name="alon">\\\"זו לא ירידה ברמה לשחק בליגה ב′.\\\"</string>
+    <string name="searchDT">Share/Add To Favorites</string>
+    <string name="searchDM">What Do You Wonna Do?</string>
+    <string name="searchBN">Add To Favorites?</string>
+    <string name="searchBP">Share?</string>
+    <string name="favoritesDT">Share/Delete This Item.</string>
+    <string name="favoritesDM">What Do You Wonna Do?</string>
+    <string name="favoritesDBN">Delete From Favorites?</string>
+
+</resources>
